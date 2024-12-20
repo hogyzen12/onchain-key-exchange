@@ -1,0 +1,15 @@
+pubkey of privkey sent/encrypted message
+EXcHCTtrj2RwC4RYwnASW8smuSD7PNvmazPvUutDGp6F
+
+Unique Recipient/decrypter:
+6tBou5MHL5aWpDy6cgf3wiwGGK2mR8qs68ujtpaoWrf2
+
+Only 6tBou5MHL5aWpDy6cgf3wiwGGK2mR8qs68ujtpaoWrf2 will be able to decrypt
+encrypted_share.json
+and be able to recover the keypair for EXcHCTtrj2RwC4RYwnASW8smuSD7PNvmazPvUutDGp6F
+
+Test with other recipient keypairs:
+pLgH63FULg9BVrqyjFLwDXyiGBFKvtw7HMByv592WMK
+C1PsoU8EPqheU3kv7Gzp6tAoj6UZ5Srtzm4S2f26zss
+etc...
+
